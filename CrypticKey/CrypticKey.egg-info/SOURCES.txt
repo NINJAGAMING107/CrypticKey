@@ -1,8 +1,0 @@
-README.md
-setup.py
-CrypticKey.egg-info/PKG-INFO
-CrypticKey.egg-info/SOURCES.txt
-CrypticKey.egg-info/dependency_links.txt
-CrypticKey.egg-info/top_level.txt
-components/__init__.py
-components/ck.py
