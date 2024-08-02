@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="CrypticKey",
-    version="0.1",
+    version="0",
     packages=find_packages(),
     description="A custom module that generates a random password for you.",
     long_description=open("README.md").read(),
